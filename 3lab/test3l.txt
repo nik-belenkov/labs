@@ -1,0 +1,17 @@
+4
+Los-Angeles
+Basketball
+50
+50000
+New-York
+Basketball
+66
+80000
+Atlanta
+Basketball
+85
+40000
+Minessota
+Basketball
+77
+55000
